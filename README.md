@@ -1,3 +1,5 @@
+# This line has been added to demonstrate de usage of "git pull" command
+
 # Sample Java Project
 
 This is a reference for setting up a new Ant-based Java project. It
