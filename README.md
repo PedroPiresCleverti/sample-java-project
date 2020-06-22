@@ -1,5 +1,3 @@
-# AQUI vai o teste de demo
-# Aqui também
 # Sample Java Project
 
 This is a reference for setting up a new Ant-based Java project. It
